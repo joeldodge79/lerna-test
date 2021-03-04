@@ -2,6 +2,7 @@
   "name": "@joeldodge/pkg2",
   "version": "2.2.3",
   "dependencies": {
+    "@joeldodge/pkg0": "^1.1.1",
     "@joeldodge/pkg1": "^1.1.2"
   }
 }
